@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dados</string>
+    <string name="tvResultado">RESULTADO</string>
+    <string name="tvTitulo">LANCE LOS DADOS</string>
+</resources>
